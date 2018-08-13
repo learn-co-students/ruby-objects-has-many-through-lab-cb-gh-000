@@ -2,11 +2,11 @@ require "spec_helper"
 
 describe "Patient" do
 
-  # describe "#new" do
-  #   it "initializes with a name" do
-  #     expect{Patient.new("Devin")}.to_not raise_error
-  #   end
-  # end
+  describe "#new" do
+    it "initializes with a name" do
+      expect{Patient.new("Devin")}.to_not raise_error
+    end
+  end
 
   # describe "#new_appointment" do
   #   it "given a doctor and date, creates a new appointment belonging to that patient" do
