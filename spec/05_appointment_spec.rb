@@ -1,3 +1,4 @@
+=begin
 require "spec_helper"
 
 describe "Appointment" do
@@ -41,3 +42,4 @@ describe "Appointment" do
     end
   end
 end
+=end

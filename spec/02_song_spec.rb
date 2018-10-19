@@ -1,3 +1,4 @@
+=begin
 require "spec_helper"
 
 describe "Song" do
@@ -43,3 +44,4 @@ describe "Song" do
     end
   end
 end
+=end
