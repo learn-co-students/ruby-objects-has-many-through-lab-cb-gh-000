@@ -1,3 +1,4 @@
+=begin
 require 'spec_helper'
 
 describe 'Patient' do
@@ -53,3 +54,4 @@ describe 'Patient' do
     end
   end
 end
+=end

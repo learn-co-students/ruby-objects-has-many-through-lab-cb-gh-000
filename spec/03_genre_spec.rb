@@ -1,3 +1,4 @@
+=begin
 require 'spec_helper'
 
 describe 'Genre' do
@@ -46,3 +47,4 @@ describe 'Genre' do
     end
   end
 end
+=end
