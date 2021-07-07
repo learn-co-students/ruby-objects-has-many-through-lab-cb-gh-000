@@ -21,7 +21,7 @@ belong to a `Patient` and a `Doctor`. A `Doctor` has many `Appointment`s and a
 `Patient` has many `Appointment`s. A `Doctor` has many `Patient`s through its
 `Appointment`s and a `Patient` has many `Doctor`s through its `Appointment`s.
 
-## Instructions
+## Instructfions
 
 Start with the `Artist`/`Song`/`Genre` domain.
 
